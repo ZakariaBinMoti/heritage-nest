@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Lakeview Apartment",
+    "image": "https://i.ibb.co/KhF2kLf/large-room-with-large-window-couch-with-pillows-it-188544-27425.jpg",
+    "location": "Dhaka, Bangladesh",
+    "total_area": 1200,
+    "price": 750000,
+    "status": "Ready to Move"
+  },
+  {
+    "id": 2,
+    "name": "Sunrise Villa",
+    "image": "https://i.ibb.co/Wv2mpMm/entrance-area-staircase-have-spacious-mirror-affixed-wall-complemented-by-stunning-410516-114125.png",
+    "location": "Chittagong, Bangladesh",
+    "total_area": 3000,
+    "price": 150000,
+    "status": "Not Ready"
+  },
+  {
+    "id": 3,
+    "name": "Hilltop Residence",
+    "image": "https://i.ibb.co/4N8MGSD/interior-design-living-room-73899-2826.png",
+    "location": "Sylhet, Bangladesh",
+    "total_area": 1800,
+    "price": 850000,
+    "status": "Ready to Move"
+  },
+  {
+    "id": 4,
+    "name": "City Center Condo",
+    "image": "https://i.ibb.co/KhF2kLf/large-room-with-large-window-couch-with-pillows-it-188544-27425.jpg",
+    "location": "Dhaka, Bangladesh",
+    "total_area": 1600,
+    "price": 950000,
+    "status": "Ready to Move"
+  },
+  {
+    "id": 5,
+    "name": "Riverside House",
+    "image": "https://i.ibb.co/Wv2mpMm/entrance-area-staircase-have-spacious-mirror-affixed-wall-complemented-by-stunning-410516-114125.png",
+    "location": "Rajshahi, Bangladesh",
+    "total_area": 2200,
+    "price": 120000,
+    "status": "Not Ready"
+  },
+  {
+    "id": 6,
+    "name": "Coastal Breeze Cottage",
+    "image": "https://i.ibb.co/4N8MGSD/interior-design-living-room-73899-2826.png",
+    "location": "Cox's Bazar, Bangladesh",
+    "total_area": 1400,
+    "price": 600000,
+    "status": "Ready to Move"
+  }
+]
